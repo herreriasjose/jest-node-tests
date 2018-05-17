@@ -1,3 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`/products should returns a list of products in json format: GET http://localhost:3001/products/ 1`] = `"\\"[{\\\\\\"productId\\\\\\":\\\\\\"w1\\\\\\",\\\\\\"description\\\\\\":\\\\\\"Crunchy Worms.\\\\\\",\\\\\\"price\\\\\\":4.12},{\\\\\\"productId\\\\\\":\\\\\\"b1\\\\\\",\\\\\\"description\\\\\\":\\\\\\"Huge Water Beetles.\\\\\\",\\\\\\"price\\\\\\":7.12},{\\\\\\"productId\\\\\\":\\\\\\"a1\\\\\\",\\\\\\"description\\\\\\":\\\\\\"Try them on your salad or tortilla chips.\\\\\\",\\\\\\"price\\\\\\":3.12},{\\\\\\"productId\\\\\\":\\\\\\"a2\\\\\\",\\\\\\"description\\\\\\":\\\\\\"A delicious source of proteins.\\\\\\",\\\\\\"price\\\\\\":5.12}]\\""`;
