@@ -129,7 +129,7 @@ adminRouter.get('/',function(req,res){
     console.log("Error: ",err.message);
     return;
  }
- var query = `SELECT productId,description, price FROM ${table};`; 
+ let query = `SELECT productId,description, price FROM ${table};`; 
  
  db.all(query, (err, rows) => {
    if(err) {
