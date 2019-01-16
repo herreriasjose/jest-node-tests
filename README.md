@@ -1,5 +1,8 @@
+Infinite Jest I
+===============
+
 Jest: a different way to test Node applications
-===============================================
+-----------------------------------------------
 <p align="center">
    <img src="img/jest-tests-00.png" width="707px">
 </p>
